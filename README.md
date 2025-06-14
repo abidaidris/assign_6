@@ -1,3 +1,3 @@
 # Chatbot with Weather and agent tool.
-<image  src ="C:\Users\AL-MAKKAH\Documents" >  </image>
+<image  src = "https://github.com/abidaidris/assign_6/blob/main/pic_6.PNG?raw=true" >  </image>
   
